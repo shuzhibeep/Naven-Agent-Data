@@ -1,6 +1,1 @@
-{
-  "name": "Naven Offical",
-  "avatar": "https://img.cdn1.vip/i/68a992341b5f9_1755943476.webp", 
-  "tag": "官方代理"
-  "url": "naven.shop"
-}
+{"name":"Naven Offical","avatar":"https://img.cdn1.vip/i/68a992341b5f9_1755943476.webp","tag":"官方代理","url":"naven.shop"}
