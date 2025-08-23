@@ -1,3 +1,5 @@
 {
-  test | test | test | test | 
+  "name": "Naven Offical",
+  "avatar": "https://img.api.aa1.cn/2025/08/23/e9880e2cc47ff.png", 
+  "tag": "官方代理"
 }
