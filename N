@@ -1,2 +1,4 @@
 {"name":"Naven Offical","avatar":"https://img.cdn1.vip/i/68a993580485c_1755943768.webp","tag":"官方代理","url":"naven.shop"}
 {"name":"HighIQstore-2k25","avatar":"https://img.cdn1.vip/i/68aad859d31c7_1756026969.webp","tag":"普通代理","url":"https://highiqshop.top/"}
+{"name":"婊子伊","avatar":"
+https://q.qlogo.cn/headimg_dl?dst_uin=366332650&spec=640&img_type=jpg","tag":"官方代理","url":"naven.shop"}
